@@ -1,6 +1,6 @@
 # tweet-sentiment-analysis
 # Project Overview
-This project uses Streamlit to create an interactive web application that visualizes sentiment analysis of tweets about six major tech companies. The dataset is sourced from Kaggle and includes sentiment data for tweets related to these companies. The application allows users to explore the sentiment distribution and trends over time for each company.
+This project uses Streamlit to create an interactive web application that visualizes sentiment analysis of tweets about six major tech companies. The dataset is sourced from Kaggle and includes sentiment data for tweets related to these companies. The application allows users to explore the sentiment distribution and trends for each company.
 
 # Features
 * Interactive Data Visualization: View sentiment analysis for tweets about six big tech companies.
