@@ -18,7 +18,7 @@ This project uses Streamlit to create an interactive web application that visual
 
 # Setup
 1. Clone the repository.
-2. Download the dataset either from the repository or from Kaggle at https://www.kaggle.com/datasets/wjia26/big-tech-companies-tweet-sentiment. Keep it in the same folder as company_sentiment.py.
+2. Download the dataset either from the repository or from the Kaggle dataset which can be found [here](https://www.kaggle.com/datasets/wjia26/big-tech-companies-tweet-sentiment). Keep it in the same folder as company_sentiment.py.
 3. Run Streamlit from the command line
    ```
    streamlit run company_sentiment.py
