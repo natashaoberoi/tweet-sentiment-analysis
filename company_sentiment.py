@@ -41,7 +41,7 @@ def load_data():
 
 data = load_data()
 
-if st.sidebar.checkbox("Show raw data", False):
+if st.sidebar.checkbox("Show raw data", True):
     st.write(data)
 
 st.sidebar.subheader("Show random tweet")
